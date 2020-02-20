@@ -1,0 +1,86 @@
+h2 {
+    font-family: 'Shrikhand', cursive;
+    color: white;
+    font-size: 24px;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000
+}
+
+.portfolioParagraphFont {
+
+    color: white;
+}
+
+body {
+    background: url('https://www.liveabout.com/thmb/NBpuFKFoPCHX9Ktu_C3YDPAPFGQ=/2880x2160/smart/filters:no_upscale()/GettyImages-597572085-584819855f9b5851e593fd0b-5c336fd646e0fb0001d39014.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: mediumaquamarine;
+    color: white;
+    text-align: center;
+  }
+
+.masthead-brand {
+    font-family: 'Rock Salt', cursive;
+    font-weight: bold;
+    font-size: 40px;
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000
+}
+.nav-link {
+    font-family: 'Knewave', cursive;
+    font-weight: bold;
+    font-size: 22px;
+    color: aquamarine;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000
+}
+
+.main {
+    vertical-align: middle;
+}
+.main-heading{
+    margin-right: auto;
+    margin-left: auto;
+    font-family: 'Shrikhand', cursive;
+    color: lightblue;
+    font-size: 50px;
+}
+
+.btn { 
+    background: seagreen;
+    background-image: -webkit-linear-gradient(top, seagreen, #2079b0);  background-image: -moz-linear-gradient(top, seagreen, #2079b0);  background-image: -ms-linear-gradient(top, seagreen, #2079b0);  background-image: -o-linear-gradient(top, seagreen, #2079b0);  background-image: linear-gradient(to bottom, seagreen, #2079b0);
+    -webkit-border-radius: 28;  -moz-border-radius: 28;  border-radius: 28px;
+    text-shadow: 3px 2px 1px #9daef5;  -webkit-box-shadow: 6px 5px 24px #5d83b4;  -moz-box-shadow: 6px 5px 24px #5d83b4;  box-shadow: 6px 5px 24px #5d83b4;
+    font-family: Arial;  color: #fafafa;  font-size: 27px;  padding: 19px;  text-decoration: none;}
+}
+.rounded-circle {
+
+}
+.rounded-circle :hover {
+
+    transform: scale(1.5);
+}
+
+.jumbotron{
+    position: relative;
+    z-index:-101;
+  }
+  
+  #video-background { 
+    position: fixed;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      overflow: hidden;
+      z-index: -100;
+      width:100%;
+  }
+  
